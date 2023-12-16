@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  minio:
+    image: minio/minio
+    container_name: minio-s3
+    command: server /data
+    ports:
+      - "9000:9000"
+    environment:
+      MINIO_ACCESS_KEY: colddirol
+      MINIO_SECRET_KEY: colddirol
+
+  server:
+    build: ./server
+    container_name: server
+    environment: 
+      MINIO_ENDPOINT: "http://minio:9000"
+    ports:
+      - "8080:8080"
+    depends_on:
+      - minio
+
+  webpages:
+    build: ./webpages
+    container_name: webpages
+    ports:
+      - "80:80"
+    depends_on:
+      - server

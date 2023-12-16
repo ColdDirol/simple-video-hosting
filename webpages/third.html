@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Video uploading</title>
+    <style>
+        body {
+            background-color: #131418;
+            margin: 0;
+            padding: 0;
+        }
+
+        .launcher-container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            align-items: center;
+            /* Расположение по вертикали по центру */
+            justify-content: center;
+            /* Расположение по горизонтали по центру */
+        }
+
+        .objects-wrapper {
+            text-align: center;
+            /* Выравнивание элементов внутри блока по центру */
+        }
+
+        .bold-text {
+            color: white;
+            font-size: 55px;
+            font-weight: bold;
+
+            font-family: 'Franklin Gothic Medium';
+        }
+
+        .upload-form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin-top: 50px;
+
+            font-size: 25;
+            font-family: 'Courier New';
+            font-weight: lighter;
+        }
+
+        .upload-form input[type="file"] {
+            margin-bottom: 20px;
+            background-color: #686868;
+
+
+            font-size: 25;
+            font-family: 'Courier New';
+            font-weight: lighter;
+        }
+
+        .upload-form input[type="submit"] {
+            width: 200px;
+            height: 50px;
+            margin-bottom: 10px;
+            border-radius: 30px;
+            background-color: #686868;
+            border: none;
+            color: white;
+            font-size: 20px;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+
+            display: flex;
+            justify-content: center;
+            /* Расположение по горизонтали */
+            align-items: center;
+            /* Расположение по вертикали */
+
+            font-size: 25;
+            font-family: 'Courier New';
+            font-weight: lighter;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="launcher-container">
+        <div class="objects-wrapper"></div>
+        <h1 class="bold-text">Upload your .mp4 video</h1>
+        <form id="uploadForm" class="upload-form">
+            <input type="file" name="videoFile" id="videoFile" accept="video/mp4">
+            <br>
+            <input type="submit" value="Upload">
+        </form>
+    </div>
+    </div>
+
+    <script src="third.js"></script>
+</body>
+
+</html>

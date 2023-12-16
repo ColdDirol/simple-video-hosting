@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Authorization or registration</title>
+    <style>
+        body {
+            background-color: #131418;
+            margin: 0;
+            padding: 0;
+        }
+
+        .launcher-container {
+            display: flex;
+            height: 100vh;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .launcher-input-buttons-wrapper {
+            /* Обертка для кнопок */
+            position: absolute;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .launcher-buttons {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: flex-start;
+
+            font-size: 25;
+            font-family: 'Courier New';
+            font-weight: lighter;
+        }
+
+        .button {
+            width: 200px;
+            height: 50px;
+            margin-bottom: 10px;
+            border-radius: 30px;
+            background-color: #686868;
+            border: none;
+            color: white;
+            font-size: 20px;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+
+            display: flex;
+            justify-content: center;
+            /* Расположение по горизонтали */
+            align-items: center;
+            /* Расположение по вертикали */
+
+            font-size: 25;
+            font-family: 'Courier New';
+            font-weight: lighter;
+        }
+
+        .input {
+            width: 400px;
+            height: 50px;
+            margin-bottom: 20px;
+            background-color: #131418;
+
+            border: none;
+            border-radius: 10px;
+
+            align-items: center;
+            justify-content: center;
+
+            padding-left: 20px;
+
+            color: white;
+            font-size: 20px;
+            font-family: 'Courier New';
+            font-weight: lighter;
+        }
+
+        .input::placeholder {
+            font-size: 20px;
+            font-family: 'Courier New';
+            font-weight: lighter;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="launcher-container">
+        <div class="launcher-image"></div>
+        <div class="launcher-input-buttons-wrapper">
+            <div class="launcher-buttons">
+                <input type="text" id="loginInput" class="input" placeholder="Login">
+                <input type="password" id="passwordInput" class="input" placeholder="Password">
+            </div>
+
+            <a id="submitBtn" class="button">Continue</a>
+        </div>
+    </div>
+
+    <script src="second.js"></script>
+</body>
+
+</html>

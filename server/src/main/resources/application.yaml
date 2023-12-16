@@ -1,0 +1,16 @@
+ktor:
+  deployment:
+    host: "0.0.0.0"
+    port: 8080
+
+  database:
+    url: "jdbc:h2:mem:h2database;DB_CLOSE_DELAY=-1;"
+    driver: "org.h2.Driver"
+    user: "colddirol"
+    password: "colddirol"
+
+  minio:
+    endpoint: "$MINIO_ENDPOINT:http://localhost:9000"
+    accessKey: "colddirol"
+    secretKey: "colddirol"
+    bucket: "videos"

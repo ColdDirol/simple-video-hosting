@@ -1,0 +1,113 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.colddirol.database.tokens////PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/index.html
+$dokka.location:com.colddirol.database.tokens/TokenDTO///PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-token-d-t-o/index.html
+$dokka.location:com.colddirol.database.tokens/TokenDTO/TokenDTO/#kotlin.Int#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-token-d-t-o/-token-d-t-o.html
+$dokka.location:com.colddirol.database.tokens/TokenDTO/token/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-token-d-t-o/token.html
+$dokka.location:com.colddirol.database.tokens/TokenDTO/user_id/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-token-d-t-o/user_id.html
+$dokka.location:com.colddirol.database.tokens/Tokens///PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-tokens/index.html
+$dokka.location:com.colddirol.database.tokens/Tokens/fetchUserId/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-tokens/fetch-user-id.html
+$dokka.location:com.colddirol.database.tokens/Tokens/insert/#com.colddirol.database.tokens.TokenDTO/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-tokens/insert.html
+$dokka.location:com.colddirol.database.tokens/Tokens/isTrueToken/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-tokens/is-true-token.html
+$dokka.location:com.colddirol.database.tokens/Tokens/update/#kotlin.Int#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.tokens/-tokens/update.html
+$dokka.location:com.colddirol.database.users////PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/index.html
+$dokka.location:com.colddirol.database.users/UserDTO///PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/-user-d-t-o/index.html
+$dokka.location:com.colddirol.database.users/UserDTO/UserDTO/#kotlin.String#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/-user-d-t-o/-user-d-t-o.html
+$dokka.location:com.colddirol.database.users/UserDTO/login/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/-user-d-t-o/login.html
+$dokka.location:com.colddirol.database.users/UserDTO/password/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/-user-d-t-o/password.html
+$dokka.location:com.colddirol.database.users/Users///PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/-users/index.html
+$dokka.location:com.colddirol.database.users/Users/fetchId/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/-users/fetch-id.html
+$dokka.location:com.colddirol.database.users/Users/fetchUser/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/-users/fetch-user.html
+$dokka.location:com.colddirol.database.users/Users/insert/#com.colddirol.database.users.UserDTO/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.users/-users/insert.html
+$dokka.location:com.colddirol.database.videos////PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.videos/index.html
+$dokka.location:com.colddirol.database.videos/VideoDTO///PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.videos/-video-d-t-o/index.html
+$dokka.location:com.colddirol.database.videos/VideoDTO/VideoDTO/#kotlin.Int#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.videos/-video-d-t-o/-video-d-t-o.html
+$dokka.location:com.colddirol.database.videos/VideoDTO/name/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.videos/-video-d-t-o/name.html
+$dokka.location:com.colddirol.database.videos/VideoDTO/user_id/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.videos/-video-d-t-o/user_id.html
+$dokka.location:com.colddirol.database.videos/Videos///PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.videos/-videos/index.html
+$dokka.location:com.colddirol.database.videos/Videos/insert/#com.colddirol.database.videos.VideoDTO/PointingToDeclaration/rbiconcept-test-task/com.colddirol.database.videos/-videos/insert.html
+$dokka.location:com.colddirol.features.login.controllers////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.controllers/index.html
+$dokka.location:com.colddirol.features.login.controllers/LoginController///PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.controllers/-login-controller/index.html
+$dokka.location:com.colddirol.features.login.controllers/LoginController/LoginController/#io.ktor.server.application.ApplicationCall/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.controllers/-login-controller/-login-controller.html
+$dokka.location:com.colddirol.features.login.controllers/LoginController/handleLogin/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.controllers/-login-controller/handle-login.html
+$dokka.location:com.colddirol.features.login.models////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.models/index.html
+$dokka.location:com.colddirol.features.login.models/LoginReceiveRemote///PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.models/-login-receive-remote/index.html
+$dokka.location:com.colddirol.features.login.models/LoginReceiveRemote/LoginReceiveRemote/#kotlin.String#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.models/-login-receive-remote/-login-receive-remote.html
+$dokka.location:com.colddirol.features.login.models/LoginReceiveRemote/login/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.models/-login-receive-remote/login.html
+$dokka.location:com.colddirol.features.login.models/LoginReceiveRemote/password/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.models/-login-receive-remote/password.html
+$dokka.location:com.colddirol.features.login.models/LoginResponseRemote///PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.models/-login-response-remote/index.html
+$dokka.location:com.colddirol.features.login.models/LoginResponseRemote/LoginResponseRemote/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.models/-login-response-remote/-login-response-remote.html
+$dokka.location:com.colddirol.features.login.models/LoginResponseRemote/token/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.models/-login-response-remote/token.html
+$dokka.location:com.colddirol.features.login.routes////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.routes/index.html
+$dokka.location:com.colddirol.features.login.routes//configureLoginRoutes/io.ktor.server.application.Application#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.login.routes/configure-login-routes.html
+$dokka.location:com.colddirol.features.registration.controllers////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.controllers/index.html
+$dokka.location:com.colddirol.features.registration.controllers/RegisterController///PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.controllers/-register-controller/index.html
+$dokka.location:com.colddirol.features.registration.controllers/RegisterController/RegisterController/#io.ktor.server.application.ApplicationCall/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.controllers/-register-controller/-register-controller.html
+$dokka.location:com.colddirol.features.registration.controllers/RegisterController/handleRegistration/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.controllers/-register-controller/handle-registration.html
+$dokka.location:com.colddirol.features.registration.models////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.models/index.html
+$dokka.location:com.colddirol.features.registration.models/RegisterReceiveRemote///PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.models/-register-receive-remote/index.html
+$dokka.location:com.colddirol.features.registration.models/RegisterReceiveRemote/RegisterReceiveRemote/#kotlin.String#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.models/-register-receive-remote/-register-receive-remote.html
+$dokka.location:com.colddirol.features.registration.models/RegisterReceiveRemote/login/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.models/-register-receive-remote/login.html
+$dokka.location:com.colddirol.features.registration.models/RegisterReceiveRemote/password/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.models/-register-receive-remote/password.html
+$dokka.location:com.colddirol.features.registration.models/RegisterResponseRemote///PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.models/-register-response-remote/index.html
+$dokka.location:com.colddirol.features.registration.models/RegisterResponseRemote/RegisterResponseRemote/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.models/-register-response-remote/-register-response-remote.html
+$dokka.location:com.colddirol.features.registration.models/RegisterResponseRemote/token/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.models/-register-response-remote/token.html
+$dokka.location:com.colddirol.features.registration.routes////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.routes/index.html
+$dokka.location:com.colddirol.features.registration.routes//configureRegisterRoutes/io.ktor.server.application.Application#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.registration.routes/configure-register-routes.html
+$dokka.location:com.colddirol.features.stream.controllers////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.stream.controllers/index.html
+$dokka.location:com.colddirol.features.stream.controllers/StreamController///PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.stream.controllers/-stream-controller/index.html
+$dokka.location:com.colddirol.features.stream.controllers/StreamController/StreamController/#io.ktor.server.application.ApplicationCall/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.stream.controllers/-stream-controller/-stream-controller.html
+$dokka.location:com.colddirol.features.stream.controllers/StreamController/handleStreamRequest/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.stream.controllers/-stream-controller/handle-stream-request.html
+$dokka.location:com.colddirol.features.stream.routes////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.stream.routes/index.html
+$dokka.location:com.colddirol.features.stream.routes//configureStreamRoutes/io.ktor.server.application.Application#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.stream.routes/configure-stream-routes.html
+$dokka.location:com.colddirol.features.upload.controllers////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.upload.controllers/index.html
+$dokka.location:com.colddirol.features.upload.controllers/UploadController///PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.upload.controllers/-upload-controller/index.html
+$dokka.location:com.colddirol.features.upload.controllers/UploadController/UploadController/#io.ktor.server.application.ApplicationCall/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.upload.controllers/-upload-controller/-upload-controller.html
+$dokka.location:com.colddirol.features.upload.controllers/UploadController/handleUploadRequest/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.upload.controllers/-upload-controller/handle-upload-request.html
+$dokka.location:com.colddirol.features.upload.routes////PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.upload.routes/index.html
+$dokka.location:com.colddirol.features.upload.routes//configureUploadRoutes/io.ktor.server.application.Application#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.features.upload.routes/configure-upload-routes.html
+$dokka.location:com.colddirol.plugins////PointingToDeclaration/rbiconcept-test-task/com.colddirol.plugins/index.html
+$dokka.location:com.colddirol.plugins//configureAuthentication/io.ktor.server.application.Application#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.plugins/configure-authentication.html
+$dokka.location:com.colddirol.plugins//configureSerialization/io.ktor.server.application.Application#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.plugins/configure-serialization.html
+$dokka.location:com.colddirol.services.authentication////PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.authentication/index.html
+$dokka.location:com.colddirol.services.authentication/AuthenticationService///PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.authentication/-authentication-service/index.html
+$dokka.location:com.colddirol.services.authentication/AuthenticationService/getTokenOrNull/#io.ktor.server.application.ApplicationCall/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.authentication/-authentication-service/get-token-or-null.html
+$dokka.location:com.colddirol.services.authentication/BearerTokenPrincipal///PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.authentication/-bearer-token-principal/index.html
+$dokka.location:com.colddirol.services.authentication/BearerTokenPrincipal/BearerTokenPrincipal/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.authentication/-bearer-token-principal/-bearer-token-principal.html
+$dokka.location:com.colddirol.services.authentication/BearerTokenPrincipal/token/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.authentication/-bearer-token-principal/token.html
+$dokka.location:com.colddirol.services.authentication/HashingService///PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.authentication/-hashing-service/index.html
+$dokka.location:com.colddirol.services.authentication/HashingService/sha512/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.authentication/-hashing-service/sha512.html
+$dokka.location:com.colddirol.services.database////PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.database/index.html
+$dokka.location:com.colddirol.services.database/DatabaseService///PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.database/-database-service/index.html
+$dokka.location:com.colddirol.services.database/DatabaseService/initDatabase/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.database/-database-service/init-database.html
+$dokka.location:com.colddirol.services.minio////PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.minio/index.html
+$dokka.location:com.colddirol.services.minio/MinioBucketService///PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.minio/-minio-bucket-service/index.html
+$dokka.location:com.colddirol.services.minio/MinioBucketService/bucketName/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.minio/-minio-bucket-service/bucket-name.html
+$dokka.location:com.colddirol.services.minio/MinioBucketService/initMinioBucketService/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.minio/-minio-bucket-service/init-minio-bucket-service.html
+$dokka.location:com.colddirol.services.minio/MinioClientService///PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.minio/-minio-client-service/index.html
+$dokka.location:com.colddirol.services.minio/MinioClientService/createMinioClient/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.minio/-minio-client-service/create-minio-client.html
+$dokka.location:com.colddirol.services.minio/MinioClientService/initMinioClientService/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol.services.minio/-minio-client-service/init-minio-client-service.html
+$dokka.location:com.colddirol////PointingToDeclaration/rbiconcept-test-task/com.colddirol/index.html
+$dokka.location:com.colddirol//main/#/PointingToDeclaration/rbiconcept-test-task/com.colddirol/main.html
+$dokka.location:com.colddirol//module/io.ktor.server.application.Application#/PointingToDeclaration/rbiconcept-test-task/com.colddirol/module.html
+$dokka.location:com.colddirol/YamlConfiguration///PointingToDeclaration/rbiconcept-test-task/com.colddirol/-yaml-configuration/index.html
+$dokka.location:com.colddirol/YamlConfiguration/getApplicationConfig/#kotlin.String/PointingToDeclaration/rbiconcept-test-task/com.colddirol/-yaml-configuration/get-application-config.html
+com.colddirol
+com.colddirol.database.tokens
+com.colddirol.database.users
+com.colddirol.database.videos
+com.colddirol.features.login.controllers
+com.colddirol.features.login.models
+com.colddirol.features.login.routes
+com.colddirol.features.registration.controllers
+com.colddirol.features.registration.models
+com.colddirol.features.registration.routes
+com.colddirol.features.stream.controllers
+com.colddirol.features.stream.routes
+com.colddirol.features.upload.controllers
+com.colddirol.features.upload.routes
+com.colddirol.plugins
+com.colddirol.services.authentication
+com.colddirol.services.database
+com.colddirol.services.minio
+

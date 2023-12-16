@@ -1,0 +1,1 @@
+rootProject.name = "rbiconcept-test-task"
