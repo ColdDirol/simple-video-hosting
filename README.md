@@ -1,4 +1,4 @@
-# simple-web-hosting
+# simple-video-hosting
 
 ## Instruction for starting
 
