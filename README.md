@@ -5,6 +5,7 @@ To run the web application, clone the repository and enter the following command
 $ docker-compose build
 $ docker-compose up
 ```
+then go to http://localhost/
 
 ## Screenshots
 
