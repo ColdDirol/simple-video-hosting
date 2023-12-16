@@ -1,7 +1,12 @@
 # simple-web-hosting
 
+To run the web application, clone the repository and enter the following commands into the console:
+```
+$ docker-compose build
+$ docker-compose up
+```
 
-###### Waving to anyone interested in my test task!
+## Screenshots
 
 ###### first.html (choosing mode for next page)
 ![first.png](https://github.com/ColdDirol/simple-web-hosting/blob/main/img/first.png)
