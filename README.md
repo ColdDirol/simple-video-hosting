@@ -1,5 +1,7 @@
 # simple-web-hosting
 
+## Instruction for starting
+
 To run the web application, clone the repository and enter the following commands into the console:
 ```
 $ docker-compose build
